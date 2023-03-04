@@ -7052,4 +7052,7 @@ ultrasurf
 (^|\.)yahoo\.cn
 (^|\.)youdao\.com
 (^|\.)zhongsou\.com
+(^|\.)bilibili\.com
+(^|\.)oi-wiki\.org
+(^|\.)csdn\.net
 ^ime\.baidu\.jp
